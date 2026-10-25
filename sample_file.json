@@ -1,0 +1,28 @@
+{
+"disasters": [
+{
+"type": "earthquake",
+"severity": "high",
+"location": "Sample Location A",
+"status": "Example data only"
+},
+{
+"type": "flood",
+"severity": "medium",
+"location": "Sample Location B",
+"status": "Example data only"
+},
+{
+"type": "cyclone",
+"severity": "high",
+"location": "Sample Location C",
+"status": "Example data only"
+},
+{
+"type": "fire",
+"severity": "low",
+"location": "Sample Location D",
+"status": "Example data only"
+}
+]
+}
